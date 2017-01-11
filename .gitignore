@@ -1,0 +1,5 @@
+*_tweets.txt
+*.png
+*.pyc
+..gitignore.un~
+.gitignore~
